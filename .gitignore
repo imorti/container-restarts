@@ -1,0 +1,13 @@
+*~
+#*
+.DS_Store
+.rvmrc
+.bundle
+.vagrant
+.project
+target/
+**/*.iml
+**/.idea/
+/.idea/
+*.swp
+node_modules/
