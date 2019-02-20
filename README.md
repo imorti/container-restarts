@@ -1,4 +1,4 @@
-This project is to demonstrate different ways to set containers to run using the Docker Restart Policy. 
+This project is to demonstrate different ways to set containers to run using the Docker Restart Policy. Good times. 
 
 Run:
 
